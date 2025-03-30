@@ -16,7 +16,7 @@ The objective of this project is to analyze sales trends, customer purchasing be
 - Product Category Sales by Region – Analyzes category-wise performance across different regions.
 - Number of Customers in Each Segment – Examines customer distribution across product categories.
  
- - <a href="[https://github.com/inileshverma/Power-BI-Superstore-Data-Analysis/blob/main/Superstore%20Data%20Analysis.png](https://github.com/inileshverma/Organisations-Sales-Customer-and-Product-Analysis/blob/main/Dashboard%20Analysis.png)">View Dashboard</a>
+ - <a href="https://github.com/inileshverma/Power-BI-Superstore-Data-Analysis/blob/main/Superstore%20Data%20Analysis.png](https://github.com/inileshverma/Organisations-Sales-Customer-and-Product-Analysis/blob/main/Dashboard%20Analysis.png">View Dashboard</a>
  
  ## Process
 - Data Collection – Gathered transactional sales data.
