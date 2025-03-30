@@ -5,7 +5,7 @@ This Tableau dashboard analyzes sales trends, customer behavior, and product pro
 The objective of this project is to analyze sales trends, customer purchasing behavior, and product profitability. The insights will help businesses optimize inventory, refine sales strategies, and improve overall profitability across different regions and product categories.
  
  ## Dataset used
- - <a href="https://github.com/inileshverma/Power-BI-Superstore-Data-Analysis/blob/main/Superstore_dataset.csv">Dataset</a>
+ - <a href="https://github.com/inileshverma/Organisations-Sales-Customer-and-Product-Analysis/blob/main/Tableau_Practice_Data.xlsx">Dataset</a>
  
  ## Key Performance Indicators (KPIs)
 - Monthly Sales Trend – Identifies peak sales months and seasonal variations.
